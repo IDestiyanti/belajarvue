@@ -1,0 +1,53 @@
+{
+  "Dosen": [
+    {
+      "id": 1,
+      "NIP": 111,
+      "Nama": "Imam Riadi",
+      "Alamat": "Yogyakarta",
+      "No_Telp": "087700654353"
+    },
+    {
+      "id": 2,
+      "NIP": 222,
+      "Nama": "Ahmad Azhari",
+      "Alamat": "Yogyakarta",
+      "No_Telp": "087733944483"
+    },
+    {
+      "id": 3,
+      "NIP": 333,
+      "Nama": "Adhi Prahara",
+      "Alamat": "Yogyakarta",
+      "No_Telp": "087788324232"
+    },
+    {
+      "id": 4,
+      "NIP": "444",
+      "Nama": "imamriadi",
+      "Alamat": "indramayu",
+      "No_Telp": "213232132131"
+    },
+    {
+      "id": 5,
+      "NIP": "555",
+      "Nama": "desti",
+      "Alamat": "indramayu",
+      "No_Telp": "087700654353"
+    }
+  ],
+  "matkul": [
+    {
+      "id": 1,
+      "Matkul": "Pengenalan Pola",
+      "sks": 4,
+      "Dosen_pengampu": "Ahmad Azhari"
+    },
+    {
+      "id": 2,
+      "Matkul": "Digital Forensik",
+      "sks": 3,
+      "Dosen_pengampu": "Imam Riadi"
+    }
+  ]
+}
